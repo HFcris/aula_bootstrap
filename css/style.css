@@ -14,3 +14,13 @@ body {
     padding-top: 10px;
     padding-bottom: 50px;
 }
+
+.parceiros {
+    background-color: #E1DFE0;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
